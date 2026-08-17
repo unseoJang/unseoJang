@@ -38,7 +38,14 @@ I build frontend products with a focus on stable UI, predictable state, and prac
 
 ## GitHub Pet
 
-![GitHub Pet](https://raw.githubusercontent.com/unseoJang/unseoJang/output/profile-pet.svg)
+<a href="https://github.com/git-goods/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/unseoJang"
+    width="600"
+    height="300"
+    alt="gitanimals"
+  />
+</a>
 
 ---
 
