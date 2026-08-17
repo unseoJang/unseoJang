@@ -36,6 +36,12 @@ I build frontend products with a focus on stable UI, predictable state, and prac
 
 ---
 
+## GitHub Pet
+
+![GitHub Pet](https://raw.githubusercontent.com/unseoJang/unseoJang/output/profile-pet.svg)
+
+---
+
 ## Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unseoJang&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -51,7 +57,7 @@ I build frontend products with a focus on stable UI, predictable state, and prac
 ## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unseoJang)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://unseojang.github.io/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qqbck123/posts)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qqbck123@gmail.com)
 
 ---
@@ -63,7 +69,7 @@ Role           Frontend Developer
 Main stack     React, TypeScript, Vite, Next.js
 Also using     Vue, Nuxt, React Native
 Interested in  UX quality, state management, performance
-Blog           차곡차곡 쌓아 올리는 개발 기록
+Blog           https://velog.io/@qqbck123/posts
 ```
 
 ---
