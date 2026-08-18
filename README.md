@@ -31,8 +31,8 @@ I build frontend products with a focus on stable UI, predictable state, and prac
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unseoJang&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unseoJang&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=unseoJang&theme=tokyonight&v=2)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unseoJang&theme=tokyonight&v=2)
 
 ---
 
