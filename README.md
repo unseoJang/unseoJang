@@ -51,7 +51,7 @@ I build frontend products with a focus on stable UI, predictable state, and prac
 
 ## Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=unseoJang&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unseoJang&theme=tokyonight)](https://github.com/unseoJang?tab=overview)
 
 ---
 
