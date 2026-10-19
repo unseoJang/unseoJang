@@ -67,6 +67,8 @@ I build frontend products with a focus on stable UI, predictable state, and prac
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@qqbck123/posts)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qqbck123@gmail.com)
 
+[![Velog 통계](https://velog-dashboard.kro.kr/badge?username=qqbck123&type=default&assets=views,likes,posts)](https://velog.io/@qqbck123)
+
 ---
 
 ## Current Focus
